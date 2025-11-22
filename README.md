@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipe website
+This is the recipe website project of The Odin Project
